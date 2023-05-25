@@ -1,4 +1,11 @@
-### Hi there 👋
+## Oie! 👋
+
+:bar_chart: Estudante de Economia na UFAL \
+:computer: Estagiário na Superintendência de Orçamento Público - SEPLAG/AL \
+:zap: Interesse em Economia, Econometria e Análise de dados. \
+:bookmark_tabs: [Linkedin](https://www.linkedin.com/in/vinicius-oc-ventura/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniventur)](https://github.com/viniventur/github-readme-stats)
 
 <!--
 **viniventur/viniventur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
