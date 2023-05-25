@@ -1,4 +1,4 @@
-## Oie! 👋
+## Olá! 👋
 
 :bar_chart: Estudante de Economia na UFAL \
 :computer: Estagiário na Superintendência de Orçamento Público - SEPLAG/AL \
