@@ -6,7 +6,7 @@
 :bookmark_tabs: [Linkedin](https://www.linkedin.com/in/vinicius-oc-ventura/) \
 :bookmark_tabs: [RPubs](https://rpubs.com/viniventur/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniventur&layout=compact)
+![Top Langs](https://github-readme-stats.jonas-bernard.dev/api/top-langs/?username=viniventur&layout=compact)
 
 <!--
 **viniventur/viniventur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
