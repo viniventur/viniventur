@@ -1,8 +1,8 @@
 ## Olá! 👋
 
 :bar_chart: Estudante de Economia na UFAL \
-:computer: Estagiário na Superintendência de Orçamento Público - SEPLAG/AL \
-:zap: Interesse em Economia, Econometria e Análise de dados. \
+:computer: Supervisor de Acompanhamento e Projeção da Receita, Orçamento e Parâmetros Econômicos Fiscais na Superintendência de Orçamento Público - SEPLAG/AL \
+:zap: Interesse em Economia, Econometria e Ciência de dados. \
 :bookmark_tabs: [Linkedin](https://www.linkedin.com/in/vinicius-oc-ventura/) \
 :bookmark_tabs: [RPubs](https://rpubs.com/viniventur/)
 
