@@ -2,10 +2,11 @@
 
 :computer: Supervisor de Acompanhamento e Projeção da Receita, Orçamento e Parâmetros Econômicos Fiscais na Superintendência de Orçamento Público - SEPLAG/AL \
 :bar_chart: Graduando em Economia - UFAL \
-:zap: Economia, Econometria e Ciência de dados. \
-:bookmark_tabs: [Linkedin](https://www.linkedin.com/in/vinicius-oc-ventura/) \
-:bookmark_tabs: [RPubs](https://rpubs.com/viniventur/)
+:zap: Economia, Econometria e Ciência de dados.
 
+ <a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
+##
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniventur&layout=compact)
 
 <!--
