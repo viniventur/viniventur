@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-:computer: Supervisor de Acompanhamento e Projeção da Receita, Orçamento e Parâmetros Econômicos Fiscais na Superintendência de Orçamento Público - SEPLAG/AL \
+:computer: Analista de Dados na Controladoria-Geral do Estado de Alagoas - CGE \
 :bar_chart: Graduando em Economia - UFAL \
 :zap: Economia, Econometria e Ciência de dados.
 
