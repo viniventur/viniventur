@@ -5,7 +5,9 @@
 :zap: Data Science & Analytics, Economia e Econometria.
 
  <a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
+ <a href="https://share.streamlit.io/user/viniventur" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" target="_blank"></a>
+ <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
+
 ##
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniventur&layout=compact)
 
