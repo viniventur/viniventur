@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-:computer: Analista de Dados na Controladoria-Geral do Estado de Alagoas - CGE \
+:computer: Analista de Dados \
 :bar_chart: Graduando em Economia - UFAL \
 :zap: Data Science & Analytics, Economia e Econometria.
 
