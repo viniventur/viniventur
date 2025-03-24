@@ -9,8 +9,7 @@
  <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
 
 ##
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniventur&layout=compact)
-
+![Top Langs](https://github-readme-stats-vinicius-venturas-projects.vercel.app/api/top-langs/?username=viniventur&layout=compact)
 <!--
 **viniventur/viniventur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
