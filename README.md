@@ -1,8 +1,8 @@
 ## Olá! 👋
 
 :computer: Analista de Dados \
-:bar_chart: Graduando em Economia - UFAL \
-:zap: Data Science & Analytics, Economia e Econometria.
+:bar_chart: Economista - UFAL \
+:zap: Data Science & Analytics, Econometria e System Design.
 
  <a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://share.streamlit.io/user/viniventur" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" target="_blank"></a>
