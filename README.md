@@ -6,7 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=520&height=45&lines=Economista+-+UFAL;Econometria;An%C3%A1lise+e+previs%C3%A3o+de+S%C3%A9ries+Temporais;Avalia%C3%A7%C3%A3o+de+Impacto;Ci%C3%AAncia+de+dados+e+machine+learning;Engenheiro+de+Software" alt="Economista, econometria, séries temporais, avaliação de impacto, ciência de dados e engenharia de software" />
 
-<a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/RPubs-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="RPubs" /></a> <a href="https://share.streamlit.io/user/viniventur" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+<a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://orcid.org/0009-0008-2172-7758" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<!-- Badges desativados no momento; para reativar, mova-os de volta para a linha acima:
+<a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/RPubs-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="RPubs" /></a>
+<a href="https://share.streamlit.io/user/viniventur" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+-->
 <!-- Para exibir seu e-mail, descomente e adicione o link abaixo junto aos demais badges:
 <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 -->
