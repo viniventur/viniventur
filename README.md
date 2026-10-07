@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=520&height=45&lines=Economista+-+UFAL;Econometria;An%C3%A1lise+e+previs%C3%A3o+de+S%C3%A9ries+Temporais;Avalia%C3%A7%C3%A3o+de+Impacto;Ci%C3%AAncia+de+dados+e+machine+learning;Engenheiro+de+Software" alt="Economista, econometria, séries temporais, avaliação de impacto, ciência de dados e engenharia de software" />
 
-<a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://orcid.org/0009-0008-2172-7758" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://viniciusventura.com.br" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1817?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMC4wMSAwIDc4LjY4IDc4LjY4Ij48cG9seWdvbiBwb2ludHM9IjExLjA5LDE4LjI0IDI5LjMzLDAgNDcuNTcsMTguMjQgMzkuMDksMTguMjQgMjkuMzMsOC40OCAxOS41NywxOC4yNCIgZmlsbD0iIzAwODhiMCIvPjxwb2x5Z29uIHBvaW50cz0iMCwzMi4yNCAxMC42NiwzMi4yNCAyOS4zMyw2MS44IDQ4LDMyLjI0IDU4LjY2LDMyLjI0IDI5LjMzLDc4LjY4IiBmaWxsPSIjZjNmMmYyIi8%2BPC9zdmc%2B" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/vinicius-oc-ventura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://orcid.org/0009-0008-2172-7758" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <!-- Badges desativados no momento; para reativar, mova-os de volta para a linha acima:
 <a href="https://rpubs.com/viniventur/" target="_blank"><img src="https://img.shields.io/badge/RPubs-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="RPubs" /></a>
 <a href="https://share.streamlit.io/user/viniventur" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
@@ -137,9 +137,10 @@ Aplicações full stack orientadas a dados.
   <img height="170" alt="Sequência de contribuições" src="https://streak-stats.vercel.app/?user=viniventur&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76&locale=pt_BR" />
 </picture>
 
+<!-- Gerado pelo workflow .github/workflows/activity-graph.yml e publicado na branch "output" -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=viniventur&hide_border=true&bg_color=00000000&color=58A6FF&title_color=58A6FF&line=58A6FF&point=C9D1D9&area=true&days=31&area_color=58A6FF&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" />
-  <img width="100%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=viniventur&hide_border=true&bg_color=00000000&color=0969DA&title_color=0969DA&line=0969DA&point=1F2328&area=true&days=31&area_color=0969DA&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniventur/viniventur/output/activity-graph-dark.svg" />
+  <img width="100%" alt="Gráfico de atividade nos últimos 31 dias" src="https://raw.githubusercontent.com/viniventur/viniventur/output/activity-graph-light.svg" />
 </picture>
 
 </div>
