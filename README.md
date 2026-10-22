@@ -33,7 +33,7 @@ Boa parte do meu trabalho gira em torno de **dados públicos** (arrecadação, f
 
 Séries temporais e inferência causal aplicadas a políticas públicas.
 
-- Previsão: **SARIMA**, **Holt-Winters**
+- Previsão: **LSTM**, **SARIMA**, **Holt-Winters**
 - Análise e avaliação de políticas públicas
 - Diferenças-em-Diferenças (**DiD** / **DDD**)
 - **Propensity Score Matching** (PSM)
