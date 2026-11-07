@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Atividade nos últimos 31 dias</title>
+<desc id="d">1051 contribuições de 2026-10-08 a 2026-11-07.</desc>
+<defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#58A6FF" stop-opacity="0.35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0.02"/>
+</linearGradient></defs>
+<text x="600" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#58A6FF">Atividade nos últimos 31 dias</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#8B949E">
+<line x1="80" x2="1170" y1="340" y2="340" stroke="#30363D" stroke-width="1"/>
+<text x="66" y="345" text-anchor="end">0</text>
+<line x1="80" x2="1170" y1="252.66666666666669" y2="252.66666666666669" stroke="#30363D" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="66" y="257.6666666666667" text-anchor="end">50</text>
+<line x1="80" x2="1170" y1="165.33333333333334" y2="165.33333333333334" stroke="#30363D" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="66" y="170.33333333333334" text-anchor="end">100</text>
+<line x1="80" x2="1170" y1="78" y2="78" stroke="#30363D" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="66" y="83" text-anchor="end">150</text>
+<text x="80" y="368" text-anchor="middle">8</text>
+<text x="116.33333333333334" y="368" text-anchor="middle">9</text>
+<text x="152.66666666666669" y="368" text-anchor="middle">10</text>
+<text x="189" y="368" text-anchor="middle">11</text>
+<text x="225.33333333333334" y="368" text-anchor="middle">12</text>
+<text x="261.66666666666663" y="368" text-anchor="middle">13</text>
+<text x="298" y="368" text-anchor="middle">14</text>
+<text x="334.33333333333337" y="368" text-anchor="middle">15</text>
+<text x="370.6666666666667" y="368" text-anchor="middle">16</text>
+<text x="407" y="368" text-anchor="middle">17</text>
+<text x="443.3333333333333" y="368" text-anchor="middle">18</text>
+<text x="479.6666666666667" y="368" text-anchor="middle">19</text>
+<text x="516" y="368" text-anchor="middle">20</text>
+<text x="552.3333333333333" y="368" text-anchor="middle">21</text>
+<text x="588.6666666666667" y="368" text-anchor="middle">22</text>
+<text x="625" y="368" text-anchor="middle">23</text>
+<text x="661.3333333333334" y="368" text-anchor="middle">24</text>
+<text x="697.6666666666666" y="368" text-anchor="middle">25</text>
+<text x="734" y="368" text-anchor="middle">26</text>
+<text x="770.3333333333334" y="368" text-anchor="middle">27</text>
+<text x="806.6666666666666" y="368" text-anchor="middle">28</text>
+<text x="843" y="368" text-anchor="middle">29</text>
+<text x="879.3333333333334" y="368" text-anchor="middle">30</text>
+<text x="915.6666666666666" y="368" text-anchor="middle">31</text>
+<text x="952" y="368" text-anchor="middle">1</text>
+<text x="988.3333333333334" y="368" text-anchor="middle">2</text>
+<text x="1024.6666666666665" y="368" text-anchor="middle">3</text>
+<text x="1061" y="368" text-anchor="middle">4</text>
+<text x="1097.3333333333335" y="368" text-anchor="middle">5</text>
+<text x="1133.6666666666667" y="368" text-anchor="middle">6</text>
+<text x="1170" y="368" text-anchor="middle">7</text>
+<text x="625" y="406" text-anchor="middle" font-size="16">Dias</text>
+<text transform="translate(22 209) rotate(-90)" text-anchor="middle" font-size="16">Contribuições</text>
+</g>
+<path d="M80,111.19C92.11,177.56,104.22,293,116.33,310.31C128.44,327.61,140.56,325.4,152.67,327.77C164.78,330.15,176.89,340,189,340C201.11,340,213.22,318.17,225.33,306.81C237.44,295.46,249.56,289.35,261.67,271.88C273.78,254.41,285.89,218.61,298,202.01C310.11,185.42,322.22,172.32,334.33,172.32C346.44,172.32,358.56,284.11,370.67,284.11C382.78,284.11,394.89,284.11,407,280.61C419.11,277.12,431.22,174.07,443.33,174.07C455.44,174.07,467.56,266.64,479.67,268.39C491.78,270.13,503.89,270.13,516,270.13C528.11,270.13,540.22,256.16,552.33,256.16C564.44,256.16,576.56,294.59,588.67,294.59C600.78,294.59,612.89,240.44,625,240.44C637.11,240.44,649.22,261.11,661.33,271.88C673.44,282.65,685.56,305.07,697.67,305.07C709.78,305.07,721.89,296.33,734,291.09C746.11,285.85,758.22,280.9,770.33,273.63C782.44,266.35,794.56,252.67,806.67,247.43C818.78,242.19,830.89,242.19,843,242.19C855.11,242.19,867.22,306.23,879.33,322.53C891.44,338.84,903.56,340,915.67,340C927.78,340,939.89,334.76,952,334.76C964.11,334.76,976.22,340,988.33,340C1000.44,340,1012.56,340,1024.67,340C1036.78,340,1048.89,324.86,1061,319.04C1073.11,313.22,1085.22,305.07,1097.33,305.07C1109.44,305.07,1121.56,314.96,1133.67,320.79C1145.78,326.61,1157.89,333.6,1170,340L1170,340L80,340Z" fill="url(#area)"/>
+<path d="M80,111.19C92.11,177.56,104.22,293,116.33,310.31C128.44,327.61,140.56,325.4,152.67,327.77C164.78,330.15,176.89,340,189,340C201.11,340,213.22,318.17,225.33,306.81C237.44,295.46,249.56,289.35,261.67,271.88C273.78,254.41,285.89,218.61,298,202.01C310.11,185.42,322.22,172.32,334.33,172.32C346.44,172.32,358.56,284.11,370.67,284.11C382.78,284.11,394.89,284.11,407,280.61C419.11,277.12,431.22,174.07,443.33,174.07C455.44,174.07,467.56,266.64,479.67,268.39C491.78,270.13,503.89,270.13,516,270.13C528.11,270.13,540.22,256.16,552.33,256.16C564.44,256.16,576.56,294.59,588.67,294.59C600.78,294.59,612.89,240.44,625,240.44C637.11,240.44,649.22,261.11,661.33,271.88C673.44,282.65,685.56,305.07,697.67,305.07C709.78,305.07,721.89,296.33,734,291.09C746.11,285.85,758.22,280.9,770.33,273.63C782.44,266.35,794.56,252.67,806.67,247.43C818.78,242.19,830.89,242.19,843,242.19C855.11,242.19,867.22,306.23,879.33,322.53C891.44,338.84,903.56,340,915.67,340C927.78,340,939.89,334.76,952,334.76C964.11,334.76,976.22,340,988.33,340C1000.44,340,1012.56,340,1024.67,340C1036.78,340,1048.89,324.86,1061,319.04C1073.11,313.22,1085.22,305.07,1097.33,305.07C1109.44,305.07,1121.56,314.96,1133.67,320.79C1145.78,326.61,1157.89,333.6,1170,340" fill="none" stroke="#58A6FF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="80" cy="111.18666666666667" r="4" fill="#C9D1D9"><title>2026-10-08: 131</title></circle>
+<circle cx="116.33333333333334" cy="310.3066666666667" r="4" fill="#C9D1D9"><title>2026-10-09: 17</title></circle>
+<circle cx="152.66666666666669" cy="327.7733333333333" r="4" fill="#C9D1D9"><title>2026-10-10: 7</title></circle>
+<circle cx="189" cy="340" r="4" fill="#C9D1D9"><title>2026-10-11: 0</title></circle>
+<circle cx="225.33333333333334" cy="306.81333333333333" r="4" fill="#C9D1D9"><title>2026-10-12: 19</title></circle>
+<circle cx="261.66666666666663" cy="271.88" r="4" fill="#C9D1D9"><title>2026-10-13: 39</title></circle>
+<circle cx="298" cy="202.01333333333335" r="4" fill="#C9D1D9"><title>2026-10-14: 79</title></circle>
+<circle cx="334.33333333333337" cy="172.32" r="4" fill="#C9D1D9"><title>2026-10-15: 96</title></circle>
+<circle cx="370.6666666666667" cy="284.1066666666667" r="4" fill="#C9D1D9"><title>2026-10-16: 32</title></circle>
+<circle cx="407" cy="280.61333333333334" r="4" fill="#C9D1D9"><title>2026-10-17: 34</title></circle>
+<circle cx="443.3333333333333" cy="174.06666666666666" r="4" fill="#C9D1D9"><title>2026-10-18: 95</title></circle>
+<circle cx="479.6666666666667" cy="268.38666666666666" r="4" fill="#C9D1D9"><title>2026-10-19: 41</title></circle>
+<circle cx="516" cy="270.1333333333333" r="4" fill="#C9D1D9"><title>2026-10-20: 40</title></circle>
+<circle cx="552.3333333333333" cy="256.15999999999997" r="4" fill="#C9D1D9"><title>2026-10-21: 48</title></circle>
+<circle cx="588.6666666666667" cy="294.58666666666664" r="4" fill="#C9D1D9"><title>2026-10-22: 26</title></circle>
+<circle cx="625" cy="240.44" r="4" fill="#C9D1D9"><title>2026-10-23: 57</title></circle>
+<circle cx="661.3333333333334" cy="271.88" r="4" fill="#C9D1D9"><title>2026-10-24: 39</title></circle>
+<circle cx="697.6666666666666" cy="305.06666666666666" r="4" fill="#C9D1D9"><title>2026-10-25: 20</title></circle>
+<circle cx="734" cy="291.09333333333336" r="4" fill="#C9D1D9"><title>2026-10-26: 28</title></circle>
+<circle cx="770.3333333333334" cy="273.62666666666667" r="4" fill="#C9D1D9"><title>2026-10-27: 38</title></circle>
+<circle cx="806.6666666666666" cy="247.42666666666668" r="4" fill="#C9D1D9"><title>2026-10-28: 53</title></circle>
+<circle cx="843" cy="242.18666666666667" r="4" fill="#C9D1D9"><title>2026-10-29: 56</title></circle>
+<circle cx="879.3333333333334" cy="322.53333333333336" r="4" fill="#C9D1D9"><title>2026-10-30: 10</title></circle>
+<circle cx="915.6666666666666" cy="340" r="4" fill="#C9D1D9"><title>2026-10-31: 0</title></circle>
+<circle cx="952" cy="334.76" r="4" fill="#C9D1D9"><title>2026-11-01: 3</title></circle>
+<circle cx="988.3333333333334" cy="340" r="4" fill="#C9D1D9"><title>2026-11-02: 0</title></circle>
+<circle cx="1024.6666666666665" cy="340" r="4" fill="#C9D1D9"><title>2026-11-03: 0</title></circle>
+<circle cx="1061" cy="319.04" r="4" fill="#C9D1D9"><title>2026-11-04: 12</title></circle>
+<circle cx="1097.3333333333335" cy="305.06666666666666" r="4" fill="#C9D1D9"><title>2026-11-05: 20</title></circle>
+<circle cx="1133.6666666666667" cy="320.7866666666667" r="4" fill="#C9D1D9"><title>2026-11-06: 11</title></circle>
+<circle cx="1170" cy="340" r="4" fill="#C9D1D9"><title>2026-11-07: 0</title></circle>
+</svg>
