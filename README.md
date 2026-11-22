@@ -133,8 +133,8 @@ Aplicações full stack orientadas a dados.
   <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats-vinicius-venturas-projects.vercel.app/api/top-langs/?username=viniventur&layout=compact&langs_count=8&hide=batchfile&size_weight=0.1&count_weight=0.9&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=viniventur&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&locale=pt_BR" />
-  <img height="170" alt="Sequência de contribuições" src="https://streak-stats.vercel.app/?user=viniventur&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76&locale=pt_BR" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniventur/viniventur/output/streak-stats-dark.svg" />
+  <img height="170" alt="Sequência de contribuições" src="https://raw.githubusercontent.com/viniventur/viniventur/output/streak-stats-light.svg" />
 </picture>
 
 <!-- Gerado pelo workflow .github/workflows/activity-graph.yml e publicado na branch "output" -->
