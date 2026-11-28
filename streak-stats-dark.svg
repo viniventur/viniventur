@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t d">
+<title id="t">Sequência de contribuições</title>
+<desc id="d">6.085 contribuições desde 2022-10-25; sequência atual de 6 dias; maior sequência de 19 dias.</desc>
+<defs><mask id="gap"><rect width="495" height="195" fill="#fff"/><circle cx="247.5" cy="31" r="14" fill="#000"/></mask></defs>
+<g stroke="#30363D" stroke-width="1"><line x1="165" y1="28" x2="165" y2="170"/><line x1="330" y1="28" x2="330" y2="170"/></g>
+<circle cx="247.5" cy="71" r="40" fill="none" stroke="#58A6FF" stroke-width="5" mask="url(#gap)"/>
+<path transform="translate(247.5 31)" fill="#58A6FF" d="M0,-12C4,-7 9,-2 9,4C9,9 5,12 0,12C-5,12 -9,9 -9,4C-9,0 -6.5,-2.5 -5,-6.5C-4,-3 -2.5,-1 -0.5,0C-1,-4 -1.5,-8 0,-12Z"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" text-anchor="middle">
+<text x="82.5" y="80" font-size="28" font-weight="700" fill="#C9D1D9">6.085</text>
+<text x="82.5" y="116" font-size="14" fill="#C9D1D9">Total de contribuições</text>
+<text x="82.5" y="146" font-size="12" fill="#8B949E">25 out 2022 – Presente</text>
+<text x="247.5" y="81" font-size="28" font-weight="700" fill="#C9D1D9">6</text>
+<text x="247.5" y="140" font-size="14" font-weight="700" fill="#58A6FF">Sequência atual</text>
+<text x="247.5" y="166" font-size="12" fill="#8B949E">22 nov – 27 nov</text>
+<text x="412.5" y="80" font-size="28" font-weight="700" fill="#C9D1D9">19</text>
+<text x="412.5" y="116" font-size="14" fill="#C9D1D9">Maior sequência</text>
+<text x="412.5" y="146" font-size="12" fill="#8B949E">12 out – 30 out</text>
+</g>
+</svg>
